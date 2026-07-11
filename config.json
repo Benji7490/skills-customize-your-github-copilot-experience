@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "REST APIs with FastAPI",
+      "description": "Build a simple REST API with request validation and JSON responses.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-07-30"
     }
   ]
 }
